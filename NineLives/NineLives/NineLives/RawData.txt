@@ -1,0 +1,1101 @@
+%%DOG BREEDS
+{
+1
+AFFENPINSCHER
+Loyal, curious, famously funny; fearless out of all proportion to their size.
+
+2
+AFGHAN HOUND
+A breed of charming contradictions: independent and aloof, but sweet and profoundly loyal.
+
+3
+AIREDALE TERRIER
+Clever, confident, proud; friendly but courageous.
+
+4
+AKITA
+Dignified, courageous, and profoundly loyal.
+
+5
+ALASKAN MALAMUTE
+Affectionate, loyal, playful but dignified.
+
+6
+AMERICAN ENGLISH COONHOUND
+Sweet, Melow, Sociable
+
+7
+AMERICAN ESKIMO DOG
+Playful, perky, very smart; an excellent trick dog.
+
+8
+AMERICAN FOXHOUND
+Sweet-tempered and easygoing, but also stubborn and independent
+
+9
+AMERICAN HAIRLESS TERRIER
+Friendly, lovable, inquisitive; fearlessly game for just about anything.
+
+10
+AMERICAN LEOPARD HOUND
+
+11
+AMERICAN STAFFORDSHIRE TERRIER
+Smart, confident, good-natured companions.
+
+12
+AMERICAN WATER SPANIEL
+Happy, eager, and charming; aloof with strangers, and a little stubborn.
+
+13
+ANATOLIAN SHEPHERD DOG
+Calm, watchful, loyal, and smart; protective and territorial.
+
+14
+APPENZELLER SENNENHUNDE
+
+15
+AUSTRALIAN CATTLE DOG
+Alert, curious, and pleasant.
+
+16
+AUSTRALIAN KELPIE
+
+17
+AUSTRALIAN SHEPHERD
+Smart, work-oriented, exuberant—did we mention smart?
+
+18
+AUSTRALIAN TERRIER
+Plucky, spirited, and smart.
+
+19
+AZAWAKH
+
+20
+BARBET
+Friendly, joyful and fun loving
+
+21
+BASENJI
+An intelligent, independent, but affectionate and alert breed. Can be aloof with strangers.
+
+22
+BASSET FAUVE DE BRETAGNE
+Smart, courageous and determined
+
+23
+BASSET HOUND
+Easygoing, laid-back, and even a bit lazy, Bassets are great family pets.
+
+24
+BAVARIAN MOUNTAIN SCENT HOUND
+quiet, poised, and loyal to their family
+
+25
+BEAGLE
+Beagles are loving and lovable, happy, easygoing, and companionable.
+
+26
+BEARDED COLLIE
+Bouncy, charismatic, friendly; smart, but also stubborn and independent.
+
+27
+BEAUCERON
+Smart, obedient, gentle; reserved with strangers, loving and eager to please with preferred humans.
+
+28
+BEDLINGTON TERRIER
+Rollicking, charming, and full of fun; a loyal member of the family.
+
+29
+BELGIAN LAEKENOIS
+
+30
+BELGIAN MALINOIS
+Smart, confident, hardworking, and steadfastly loyal.
+
+31
+BELGIAN SHEEPDOG
+Serious-minded, watchful, and very bright and trainable
+
+32
+BELGIAN TERVUREN
+Smart, self-assured, very trainable; affectionate and possessive with loved ones.
+
+33og
+BERGAMASCO SHEEPDOG
+
+34
+BERGER PICARD
+
+35
+BERNESE MOUNTAIN DOG
+Good-natured and calm.
+
+36
+BICHON FRISE
+Playful, curious, and peppy.
+
+37
+BIEWER TERRIER
+
+38
+BLACK AND TAN COONHOUND
+Easygoing, friendly, bright; mellow by the fireside, rugged and brave on the trail.
+
+39
+BLACK RUSSIAN TERRIER
+Smart, confident, courageous; protective of loved ones, aloof with strangers.
+
+40
+BLOODHOUND
+Inquisitive, independent, friendly, affectionate with family, can be reserved with strangers
+
+41
+BLUETICK COONHOUND
+A smart and devoted charmer at home; a fearless, tenacious pursuer on the trail.
+
+42
+BOERBOEL
+
+43
+BOLOGNESE
+
+44
+BORDER COLLIE
+Remarkably smart workaholics; not averse to a good cuddle.
+
+45
+BORDER TERRIER
+Plucky, happy, affectionate.
+
+46
+BORZOI
+Loyal, affectionate, regally dignified; charming but independent-minded.
+
+47
+BOSTON TERRIER
+Friendly, bright, amusing, and adaptable.
+
+48
+BOUVIER DES FLANDRES
+Strong-willed, even-tempered, courageous; affectionate with family, intimidating to intruders.
+
+49
+BOXER
+Fun-loving, bright, active and loyal.
+
+50
+BOYKIN SPANIEL
+A classic spaniel: friendly, eager, trainable, and lovable.
+
+51
+BRACCO ITALIANO
+
+52
+BRAQUE DU BOURBONNAIS
+
+53
+BRAQUE FRANCAIS PYRENEAN
+friendly, sociable, gentle and submissive
+
+54
+BRIARD
+A whole lot of dog: smart, confident, faithful, with plenty of joie de vivre.
+
+55
+BRITTANY
+Bright, upbeat, fun-loving at home; a tireless, enthusiastic worker afield.
+
+56
+BROHOLMER
+
+57
+BRUSSELS GRIFFON
+Alert, curious, and loyal.
+
+58
+BULL TERRIER
+Playful and charming; sometimes mischievous, always loyal.
+
+59
+BULLDOG
+Calm, courageous, and friendly; dignified but amusing.
+
+60
+BULLMASTIFF
+Brave, affectionate, and loyal, the Bullmastiff will always have your back.
+
+61
+CAIRN TERRIER
+Cheerful, alert, busy and independent-minded.
+
+62
+CANAAN DOG
+Alert, vigilant, territorial; docile with family, aloof with strangers.
+
+63
+CANE CORSO
+Smart, trainable, and noble of bearing; assertive and confident, Corsi are peerless protectors.
+
+64
+CARDIGAN WELSH CORGI
+Loyal, affectionate, and smart; even-tempered, never shy.
+
+65
+CAROLINA DOG
+
+66
+CATAHOULA LEOPARD DOG
+
+67
+CAUCASIAN SHEPHERD DOG
+
+68
+CAVALIER KING CHARLES SPANIEL
+Affectionate, graceful, and gentle.
+
+69
+CENTRAL ASIAN SHEPHERD DOG
+
+70
+CESKY TERRIER
+Feisty and tenacious at work, but a bit more laid back and trainable than the usual terrier.
+
+71
+CHESAPEAKE BAY RETRIEVER
+Bright, sensitive, perceptive; affectionate and family-oriented.
+
+72
+CHIHUAHUA
+Graceful, charming, and sassy.
+
+73
+CHINESE CRESTED
+Lively, alert, and affectionate.
+
+74
+CHINESE SHAR-PEI
+Steadfastly devoted to loved ones, but standoffish and lordly toward strangers.
+
+75
+CHINOOK
+Patient, smart, willing to please; a devoted family dog.
+
+76
+CHOW CHOW
+Serious-minded, dignified, bright, and aloof.
+
+77
+CIRNECO DELL’ETNA
+
+78
+CLUMBER SPANIEL
+Mellow, gentlemanly, amiable; dignified but always amusing.
+
+79
+COCKER SPANIEL
+Happy, smart, gentle.
+
+80
+COLLIE
+Graceful, devoted, and proud.
+
+81
+COTON DE TULEAR
+Bright, happy-go-lucky, endlessly charming; born to love and to be loved.
+
+82
+CURLY-COATED RETRIEVER
+Confident, proud, wickedly smart; a thinking person’s retriever.
+
+83
+CZECHOSLOVAKIAN VLCAK
+
+84
+DACHSHUND
+Go look up the word “spunky.” We’ll wait. Did you see a photo of a Dachsie? We thought so.
+
+85
+DALMATIAN
+A well-bred Dal is stable and outgoing; dignified but never shy.
+
+86
+DANDIE DINMONT TERRIER
+Independent, proud, smart; affectionate at home, bold and tenacious in the field.
+
+87
+DANISH-SWEDISH FARMDOG
+
+88
+DEUTSCHER WACHTELHUND
+
+89
+DOBERMAN PINSCHER
+Alert, fearless, loyal, and highly trainable.
+
+90
+DOGO ARGENTINO
+
+91
+DOGUE DE BORDEAUX
+Loyal, affectionate, and protective; courageous but not aggressive.
+
+92
+DRENTSCHE PATRIJSHOND
+
+93
+DREVER
+
+94
+DUTCH SHEPHERD
+lively, athletic, alert and intelligent
+
+95
+ENGLISH COCKER SPANIEL
+Merry and responsive, alive with energy.
+
+96
+ENGLISH FOXHOUND
+The prototypical pack hound: gentle, affectionate, and sociable.
+
+97
+ENGLISH SETTER
+Friendly, merry, and mellow; called the “gentleman of the dog world.”
+
+98
+ENGLISH SPRINGER SPANIEL
+Friendly, playful, obedient at home; hardworking and steady in the field.
+
+99
+ENGLISH TOY SPANIEL
+A true spaniel—affectionate, alert, and merry.
+
+100
+ENTLEBUCHER MOUNTAIN DOG
+Enthusiastic, loyal, smart; confident but not aggressive.
+
+101
+ESTRELA MOUNTAIN DOG
+
+102
+EURASIER
+
+103
+FIELD SPANIEL
+Sweet, sensitive, fun-loving, and smart; a real people-pleaser.
+
+104
+FINNISH LAPPHUND
+Reserved with strangers, but usually calm and friendly; submissive at home, courageous at work.
+
+105
+FINNISH SPITZ
+Eager, courageous, friendly, and faithful.
+
+106
+FLAT-COATED RETRIEVER
+Happy, confident, intelligent, and forever young.
+
+107
+FRENCH BULLDOG
+Playful, smart, adaptable, and completely irresistible.
+
+108
+FRENCH SPANIEL
+
+109
+GERMAN LONGHAIRED POINTER
+
+110
+GERMAN PINSCHER
+Intelligent, determined, assertive; playful and vivacious into old age.
+
+111
+GERMAN SHEPHERD DOG
+Smart, confident, courageous, and steady; a true dog lover's dog.
+
+112
+GERMAN SHORTHAIRED POINTER
+Friendly, smart, willing to please.
+
+113
+GERMAN SPITZ
+
+114
+GERMAN WIREHAIRED POINTER
+Affectionate, eager, enthusiastic; aloof but not unfriendly with strangers.
+
+115
+GIANT SCHNAUZER
+Loyal, alert, trainable, with the stable temperament required in big dogs of great strength.
+
+116
+GLEN OF IMAAL TERRIER
+Gentler, less excitable than most terriers, but still bold and spirited.
+
+117
+GOLDEN RETRIEVER
+Intelligent, friendly, and devoted.
+
+118
+GORDON SETTER
+Bold, confident, and resolute afield; sweetly affectionate by the fireside.
+
+119
+GRAND BASSET GRIFFON VENDEEN
+
+
+120
+GREAT DANE
+Friendly, patient, & dependable.
+
+121
+GREAT PYRENEES
+Calm, patient, smart; strong-willed yet affectionate.
+
+122
+GREATER SWISS MOUNTAIN DOG
+Faithful, dependable, family oriented; Swissies are famously even-tempered.
+
+123
+GREYHOUND
+Independent, gentle, noble, and oh so sweet, but intense when on the run.
+
+124
+HANOVERIAN SCENTHOUND
+calm, aloof with strangers
+
+125
+HARRIER
+Outgoing and friendly; true pack hounds, they generally get on well with other dogs.
+
+126
+HAVANESE
+Outgoing, funny, & intelligent.
+
+127
+HOKKAIDO
+Brave, Devoted, Intelligent
+
+128
+HOVAWART
+
+129
+IBIZAN HOUND
+Even-tempered and polite; a bit aloof, but a sweet-natured, family-oriented housemate.
+
+130
+ICELANDIC SHEEPDOG
+Confident, cheerful, sociable; the expression “man’s best friend” was coined for dogs like this.
+
+131
+IRISH RED AND WHITE SETTER
+Fun-loving, friendly, high-spirited; a real handful if bored or neglected.
+
+132
+IRISH SETTER
+Outgoing, sweet-natured, active, and trainable.
+
+133
+IRISH TERRIER
+Bold, dashing, even reckless; stouthearted at work, tenderhearted at home.
+
+134
+IRISH WATER SPANIEL
+Alert and inquisitive; hardworking and brave in the field, playful and affectionate at home.
+
+135
+IRISH WOLFHOUND
+Calm, dignified, kindly; courageous but not aggressive
+
+136
+ITALIAN GREYHOUND
+Sensitive and alert, playful, highly affectionate
+
+137
+JAGDTERRIER
+
+138
+JAPANESE CHIN
+A true aristocrat: charming and loving with those they favor, nobly reserved with strangers
+
+139
+JINDO
+Independent, Hunter, Discerning Guardian
+
+140
+KAI KEN
+
+141
+KARELIAN BEAR DOG
+
+145
+KEESHOND
+Outgoing, lively, friendly to all; a lover, not a fighter
+
+146
+KERRY BLUE TERRIER
+Smart and alert; people oriented, with a dash of Irish humor in his heart
+
+147
+KISHU KEN
+
+148
+KOMONDOR
+Dignified, brave, protective, steadfastly loyal
+
+149
+KROMFOHRLANDER
+
+150
+KUVASZ
+Intensely loyal, protective, utterly fearless; sweet and patient with family
+
+151
+LABRADOR RETRIEVER
+Friendly and outgoing, Labs play well with others
+
+152
+LAGOTTO ROMAGNOLO
+
+153
+LAKELAND TERRIER
+Brave, bright, confident; affectionate with family, especially kids
+
+154
+LANCASHIRE HEELER
+
+155
+LAPPONIAN HERDER
+independent and fun
+
+156
+LEONBERGER
+Bright, patient, loving, and family oriented
+
+157
+LHASA APSO
+Smart, confident, complex; a family comedian, but regally aloof with strangers
+
+158
+LOWCHEN
+Affectionate, outgoing, strong willed, and brave as a lion.
+
+159
+MALTESE
+Gentle, playful, affectionate; fearless in a charming toy-dog way.
+
+
+160
+MANCHESTER TERRIER
+Spirited, bright, keenly observant; dead loyal, in an independent terrier way.
+
+161
+MASTIFF
+Courageous and dignified, but good-natured and docile.
+
+162
+MINIATURE AMERICAN SHEPHERD
+Good-natured, Devoted, Intelligent
+
+163
+MINIATURE BULL TERRIER
+Upbeat, mischievous, comical, with terrier fire and fearlessness.
+
+164
+MINIATURE PINSCHER
+Proud, fearless, and fun-loving, Min Pins are a true “personality breed."
+
+165
+MINIATURE SCHNAUZER
+Friendly, smart, obedient.
+
+166
+MOUNTAIN CUR
+Strong-willed, reserved with strangers
+
+167
+MUDI
+active, intelligent, biddable working breed
+
+168
+NEAPOLITAN MASTIFF
+Watchful and dignified; sweet, steady, and loyal with loved ones, calm but wary with strangers.
+
+169
+NEDERLANDSE KOOIKERHONDJE
+
+170
+NEWFOUNDLAND
+Sweet, patient, devoted; Newfs are famously good companions
+
+171
+NORFOLK TERRIER
+Alert, fearless, fun-loving, and more sociable than the usual terrier.
+
+172
+NORRBOTTENSPETS
+
+173
+NORWEGIAN BUHUND
+Smart, perceptive, confident, and a total sweetheart.
+
+174
+NORWEGIAN ELKHOUND
+Confident, dependable; dignified but friendly.
+
+175
+NORWEGIAN LUNDEHUND
+Loving and loyal, also brave, tenacious, and a bit stubborn.
+
+176
+NORWICH TERRIER
+Alert, curious, affectionate, gregarious, loyal
+
+178
+NOVA SCOTIA DUCK TOLLING RETRIEVER
+Smart, outgoing, busy; as affectionate and eager to please as any good retriever.
+
+179
+OLD ENGLISH SHEEPDOG
+Adaptable, smart, gentle; Old English Sheepdogs are famous for their sweet, agreeable nature.
+
+180
+OTTERHOUND
+A big-personality dog: boisterous, affectionate, cheerful.
+
+181
+PAPILLON
+Happy, alert, friendly.
+
+182
+PARSON RUSSELL TERRIER
+Bold, friendly, athletic, and clever.
+
+183
+PEKINGESE
+Affectionate, loyal, regal in manner.
+
+184
+PEMBROKE WELSH CORGI
+Smart and alert, affectionate but not pushy, bold but kindly.
+
+185
+PERRO DE PRESA CANARIO
+
+186
+PERUVIAN INCA ORCHID
+Lively, alert, playful; charming and well mannered around the house.
+
+187
+PETIT BASSET GRIFFON VENDEEN
+Alert, vivacious, and happy-happy-happy!
+
+188
+PHARAOH HOUND
+Smart and alert; noble, but friendly and affectionate.
+
+189
+PLOTT
+Sweetly gentle with people, but fearless, implacable, and bold at work.
+
+190
+POINTER
+Even-tempered, alert, hardworking, and loyal; a peerless hunting partner.
+
+191
+POLISH LOWLAND SHEEPDOG
+Lively, clever, confident; very loyal, but an independent worker.
+
+192
+POMERANIAN
+Lively, bold, and inquisitive—a prototypical "personality breed".
+
+193
+POODLE
+Proud, active and very smart..
+
+194
+PORCELAINE
+Elegant, energetic and fierce hunter
+
+195
+PORTUGUESE PODENGO
+
+196
+PORTUGUESE PODENGO PEQUENO
+Lively, alert, playful; charming and well mannered around the house.
+
+197
+PORTUGUESE POINTER
+
+198
+PORTUGUESE SHEEPDOG
+
+199
+PORTUGUESE WATER DOG
+The PWD is an “A” student: Affectionate, athletic, and adventurous.
+
+200
+PUDELPOINTER
+
+201
+PUG
+Even-tempered, charming, mischievous and loving.
+
+202
+PULI
+Loyal, smart, home-loving; strong-willed but trainable.
+
+203
+PUMI
+
+204
+PYRENEAN MASTIFF
+Calm, patient, smart; strong-willed yet affectionate.
+
+205
+PYRENEAN SHEPHERD
+Enthusiastic, mischievous, and whip-smart; playful with family, wary of strangers.
+
+206
+RAFEIRO DO ALENTEJO
+
+207
+RAT TERRIER
+Friendly, lovable, inquisitive; fearlessly game for just about anything.
+
+208
+REDBONE COONHOUND
+Even-tempered, amiable, and kindly at home, but a tiger on the trail.
+
+209
+RHODESIAN RIDGEBACK
+Dignified, even tempered; affectionate toward loved ones, reserved with strangers.
+
+210
+ROTTWEILER
+Reserved with strangers and affectionate and loyal with his family.
+
+211
+RUSSELL TERRIER
+Alert, lively, inquisitive, and friendly.
+
+212
+RUSSIAN TOY
+
+213
+RUSSIAN TSVETNAYA BOLONKA
+
+214
+SALUKI
+Gentle, dignified, loyal but independent-minded.
+
+215
+SAMOYED
+Gentle, adaptable, eager, friendly; conservative but never shy
+
+216
+SCHAPENDOES
+
+217
+SCHIPPERKE
+Alert, curious, confident; intense, but with a dash of mischief and impudence
+
+218
+SCOTTISH DEERHOUND
+Dignified, gentle, polite; quietly intelligent and perceptive.
+
+219
+SCOTTISH TERRIER
+Independent, confident, and never shy; spirited but dignified
+
+220
+SEALYHAM TERRIER
+Alert and outgoing; stubbornness is tempered by a sly sense of humor
+
+221
+SHETLAND SHEEPDOG
+Bright, playful, and energetic
+
+222
+SHIBA INU
+Alert, active, and attentive
+
+223
+SHIH TZU
+Outgoing, affectionate, playful and charming
+
+224
+SHIKOKU
+
+225
+SIBERIAN HUSKY
+Friendly, gentle, dignified; alert, but not aggressive.
+
+226
+SILKY TERRIER
+Friendly, vivacious, cheeky; in all ways a true terrier.
+
+227
+SKYE TERRIER
+Plucky but dignified, calm but sometimes stubborn; famously loyal and devoted.
+
+228
+SLOUGHI
+Noble and somewhat aloof, however are faithful to owners
+
+229
+SLOVENSKY CUVAC
+
+230
+SLOVENSKY KOPOV
+
+231
+SMALL MUNSTERLANDER POINTER
+
+232
+SMOOTH FOX TERRIER
+Friendly and family oriented; bright enough to have a mind of their own
+
+233
+SOFT COATED WHEATEN TERRIER
+Happy, friendly, and deeply devoted; just stubborn enough to remind you they’re terriers.
+
+234
+SPANISH MASTIFF
+
+235
+SPANISH WATER DOG
+Faithful, hardworking, lively; affectionate with family, and a vigilant watchdog
+
+236
+SPINONE ITALIANO
+Sociable, docile, patient; occasionally stubborn but always a character.
+
+237
+ST. BERNARD
+Friendly, patient, outgoing; known as a great “nanny dog” for kids.
+
+238
+STABYHOUN
+
+239
+STAFFORDSHIRE BULL TERRIER
+Brave, tenacious, a bit stubborn; but also gentle, playful, and clever.
+
+240
+STANDARD SCHNAUZER
+Smart, fearless, sometimes willful; spirited, but ever reliable.
+
+241
+SUSSEX SPANIEL
+Merry and friendly, in the classic spaniel manner.
+
+242
+SWEDISH LAPPHUND
+
+243
+SWEDISH VALLHUND
+Sociable, cheerful, alert, and blessed with classic herding-dog intelligence.
+
+244
+TAIWAN DOG
+Loyal, Intelligent, Versatile
+
+245
+TEDDY ROOSEVELT TERRIER
+Friendly, Lovable, inquisitive, fearlessly game for just about anything.
+
+246
+THAI RIDGEBACK
+
+247
+TIBETAN MASTIFF
+Mellow and calm around the house; devoted to family, reserved and territorial with strangers.
+
+248
+TIBETAN SPANIEL
+Self-confident, bright, loving, and playful.
+
+249
+TIBETAN TERRIER
+Affectionate, sensitive, clever, and vocal; TTs are like little people in dog suits.
+
+250
+TORNJAK
+
+251
+TOSA
+
+252
+TOY FOX TERRIER
+Toy Fox Terriers are outgoing and friendly, yet fiercely loyal to their families.
+
+253
+TRANSYLVANIAN HOUND
+
+254
+TREEING TENNESSEE BRINDLE
+
+255
+TREEING WALKER COONHOUND
+Smart, brave, and often described as sensible and courteous.
+
+256
+VIZSLA
+Gentle, affectionate, energetic and eager.
+
+257
+WEIMARANER
+Friendly, fearless, alert, obedient.
+
+258
+WELSH SPRINGER SPANIEL
+Happy, upbeat, family oriented; reserved but not shy with strangers.
+
+259
+WELSH TERRIER
+As alert and spirited as any self-respecting terrier, but a bit calmer than most.
+
+260
+WEST HIGHLAND WHITE TERRIER
+Happy, smart, loyal, entertaining.
+
+261
+WHIPPET
+Calm, affectionate, and playful.
+
+262
+WIRE FOX TERRIER
+Gregarious, alert, and confident, Wires crave attention from their loved ones.
+
+263
+WIREHAIRED POINTING GRIFFON
+Outgoing, eager, quick-minded; trustworthy in the field and around the house.
+
+264
+WIREHAIRED VIZSLA
+Calm and gentle around the house; an exuberant hunter on land or lake.
+
+265
+WORKING KELPIE
+Remarkably smart workaholics.
+
+266
+XOLOITZCUINTLI
+Loyal, alert, calm, trainable; like any good watchdog, they're wary of strangers.
+
+267
+YAKUTIAN LAIKA
+
+268
+YORKSHIRE TERRIER
+Sprightly, tomboyish, and affectionate
+}
+
+
+%%MEDICAL CONDITIONS
+{
+Painful Abdomen
+Swollen Anorexia
+Bad Breath 
+Bleeding - Wounds 
+Bleeding From Ear 
+Bleeding From Nose 
+Bleeding From Paw 
+Blindness 
+Blood in Stool 
+Blood in Urine 
+Breathing - Abnormal
+Chewing or Licking at Skin 
+Choking 
+Circling 
+Constipation 
+Coughing
+Dandruff 
+Deafness
+Defecation - Painful 
+Defecation - Straining 
+Defecation - Too Much 
+Dehydration 
+Diarrhea 
+Dizziness 
+Dragging Bottom 
+Drooling
+Ears - Discharge 
+Ears - Foul Odor 
+Ears - Head Shaking 
+Ears - Rubbing 
+Ears - Swollen 
+Eating - Grass 
+Eating - Refusal to Eat 
+Eating - Regurgitation 
+Eating - Weight Gain 
+Eating Stool 
+Eyes - Bulging 
+Eyes - Cloudy 
+Eyes - Discharge
+Eyes - Pupils Different Sizes 
+Eyes - Red 
+Eyes - Squinting 
+Eyes - Tear Staining 
+Eyes - Third Eyelid
+Face - Swollen 
+Falling Down 
+Fever
+Gagging
+Gas
+Hair Loss 
+Head Tilt 
+Heart Rate - Abnormal 
+Heat 
+Hot Spot
+Incontinence - Urinary 
+Itching and Scratching
+Leg - Swollen 
+Lethargy 
+Licking or Chewing at Skin 
+Limping and Lameness 
+Losing Balance 
+Lumps, Bumps and Growths
+Mouth - Bad Breath 
+Mouth - Foreign Object 
+Mouth - Painful swallowing 
+Mouth - Smacking Lips 
+Mouth - Sore Mouth Breathing
+Nose - Bleeding 
+Nose - Discharge
+Panting 
+Paws - Bleeding 
+Poisoning
+Pregnancy
+Regurgitation 
+Reverse Sneezing 
+Runny Nose
+Scooting
+Scratching and Itching 
+Seizures 
+Shedding 
+Shivering 
+Skin - Licking and Chewing 
+Skin - Lumps, bumps and growths 
+Sneezing 
+Staggering 
+Stool - Bloody 
+Stool - Eating 
+Stool - Loose 
+Stool - Painful
+Tail - Limp 
+Thirst - Excessive 
+Trembling
+Urinary Incontinence
+Urination - Frequent 
+Urination - Painful 
+Urination - Straining
+Vomiting
+Watery Eye 
+Weight Gain
+}

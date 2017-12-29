@@ -1,0 +1,18 @@
+##INSERTING ORIGINAL PETS AND OWNERS
+
+	##Owner Group 1
+		Owners
+			<first_name, last_name, birthday, county, state, city, state_add>
+			Walter, Lozier, 06/04/1988, United States, MO, Kansas City, 3808 Wyandotte St
+			Chandler, Partridge, 02/12/96, United State, MO, Kansas City, 3808 Wyandotte St
+		Pets
+			<name, birthday, weight, gender, breed>
+			Vincent, 12/10/2007, 35, M, 17
+			Jack, 4/15/2010, 65, M, 22
+
+		Pet Conditions
+			<name, condition_id>
+			Vincent, 12
+			Vincent, 24
+			Vincent, 18
+			Jack, 6
